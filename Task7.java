@@ -1,3 +1,4 @@
+// Задача № 5
 package org.example;
 
 import java.util.Arrays;
